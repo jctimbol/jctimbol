@@ -1,5 +1,8 @@
 ## hi i'm jay
 
+i go to sjsu
+
+https://linkedin.com/in/jaytimbol
 <!--
 **jctimbol/jctimbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
