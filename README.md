@@ -3,10 +3,10 @@
 https://linkedin.com/in/jaytimbol
 
 ## hackathon stuff
-- [hello stranger (mlh x digitalocean)](https://github.com/HarryZ10/hello-stranger-app)
-- [transit chatbot (hackhayward 2025)](https://github.com/dinwun450/HACKHAYWARD-HOTEB)
+- [hello stranger](https://github.com/HarryZ10/hello-stranger-app) (mobile dev project; mlh x digitalocean 2025)
+- [transit chatbot](https://github.com/dinwun450/HACKHAYWARD-HOTEB) (ai project; hackhayward 2025)
 
-## mobile stuff
+## mobile dev stuff
 - [disconnected data distribution](https://github.com/SJSU-CS-systems-group/DDD)
 
 ## web dev stuff
