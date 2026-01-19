@@ -3,6 +3,7 @@
 https://linkedin.com/in/jaytimbol
 
 ## hackathon stuff
+- [perch](https://github.com/alokthakrar/cruzhacks26) (ai edtech project; cruzhacks 2026)
 - [hello stranger](https://github.com/HarryZ10/hello-stranger-app) (mobile dev project; mlh x digitalocean 2025)
 - [transit chatbot](https://github.com/dinwun450/HACKHAYWARD-HOTEB) (ai project; hackhayward 2025)
 
