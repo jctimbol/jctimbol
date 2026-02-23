@@ -3,16 +3,16 @@
 https://linkedin.com/in/jaytimbol
 
 ## hackathon stuff
-- [envest](https://github.com/vrajhm/envest) (ai sustainability fintech project; sfhacks 2026)
-- [perch](https://github.com/alokthakrar/cruzhacks26) (ai edtech project; cruzhacks 2026)
-- [hello stranger](https://github.com/HarryZ10/hello-stranger-app) (mobile dev project; mlh x digitalocean 2025)
-- [transit chatbot](https://github.com/dinwun450/HACKHAYWARD-HOTEB) (ai project; hackhayward 2025)
+- [envest](https://github.com/vrajhm/envest) — ai sustainability fintech project @ sfhacks 2026
+- [perch](https://github.com/alokthakrar/cruzhacks26) — ai edtech project @ cruzhacks 2026
+- [hello stranger](https://github.com/HarryZ10/hello-stranger-app) — mobile dev project @ mlh x digitalocean 2025
+- [transit chatbot](https://github.com/dinwun450/HACKHAYWARD-HOTEB) — ai project @ hackhayward 2025
 
-## mobile dev stuff
-- [disconnected data distribution](https://github.com/SJSU-CS-systems-group/DDD)
+## research stuff
+- [disconnected data distribution (DDD)](https://github.com/SJSU-CS-systems-group/DDD) 
 
 ## web dev stuff
-- [seene](https://github.com/jctimbol/seene)
+- [seene](https://github.com/jctimbol/seene) 
 
 ## game dev stuff
 - [spud showdown](https://github.com/ericlong12/PotatoBomb)
