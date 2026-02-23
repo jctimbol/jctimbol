@@ -1,6 +1,4 @@
-# hi i'm jay
-
-https://linkedin.com/in/jaytimbol
+# hi [i'm jay](https://linkedin.com/in/jaytimbol)
 
 ## hackathon stuff
 - [envest](https://github.com/vrajhm/envest) — ai sustainability fintech project @ sfhacks 2026
