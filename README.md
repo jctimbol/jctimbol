@@ -1,5 +1,7 @@
 # hi [i'm jay](https://linkedin.com/in/jaytimbol)
 
+## currently building: [portfolio](https://github.com/jctimbol/portfolio)
+
 ## hackathon stuff
 - [envest](https://github.com/vrajhm/envest) — ai sustainability fintech project @ sfhacks 2026
 - [perch](https://github.com/alokthakrar/cruzhacks26) — ai edtech project @ cruzhacks 2026
