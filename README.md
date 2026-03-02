@@ -3,7 +3,7 @@
 ## currently building: [portfolio](https://github.com/jctimbol/portfolio)
 
 ## hackathon stuff
-- [fireproof](https://github.com/Tian-Tan/fire-proof) — mobile wildfire response project @ hackforhumanity 2026
+- [fireproof](https://github.com/Tian-Tan/fire-proof) — mobile wildfire response project @ hack for humanity 2026
 - [envest](https://github.com/vrajhm/envest) — ai sustainability fintech project @ sfhacks 2026
 - [perch](https://github.com/alokthakrar/cruzhacks26) — ai edtech project @ cruzhacks 2026
 - [hello stranger](https://github.com/HarryZ10/hello-stranger-app) — mobile dev project @ mlh x digitalocean 2025
