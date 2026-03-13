@@ -20,6 +20,8 @@
 
 ## miscellaneous stuff
 - [advent of code](https://github.com/jctimbol/adventofcode-2025)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0uugvyhi6gnm8hu1oo5zrfqyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=ffffff)](https://spotify-github-profile.kittinanx.com/api/view?uid=0uugvyhi6gnm8hu1oo5zrfqyi&redirect=true)
 <!--
 ![jctimbol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jctimbol&theme=react&show_icons=true&hide_border=false&layout=compact)
 
