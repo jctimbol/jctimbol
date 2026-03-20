@@ -30,6 +30,8 @@
 - [advent of code](https://github.com/jctimbol/adventofcode-2025)
 
 
+### contact me
+- jlc.timbol@gmail.com
 <!--
 ![jctimbol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jctimbol&theme=react&show_icons=true&hide_border=false&layout=compact)
 
