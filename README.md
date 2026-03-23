@@ -9,7 +9,7 @@
 ### hackathon stuff
 - [fireproof](https://github.com/Tian-Tan/fire-proof) ♛ — mobile wildfire response project @ hack for humanity 2026
 - [perch](https://github.com/alokthakrar/cruzhacks26) ♛ — ai edtech project @ cruzhacks 2026
-- [transit chatbot](https://github.com/dinwun450/HACKHAYWARD-HOTEB) ♛ — ai project @ hackhayward 2025
+- [transit chatbot](https://github.com/dinwun450/HACKHAYWARD-HOTEB) ♛ — ai public transportation project @ hackhayward 2025
 - [homerule](https://github.com/jctimbol/homerule) - voice-first tenant rights project @ hackhayward 2026
 - [envest](https://github.com/vrajhm/envest) — ai sustainability fintech project @ sfhacks 2026
 
