@@ -1,4 +1,4 @@
-# hi i'm jay! check out my [linkedin](https://linkedin.com/in/jaytimbol) and [devpost](https://devpost.com/jlc-timbol) :)
+## hi i'm jay! check out my [linkedin](https://linkedin.com/in/jaytimbol) and [devpost](https://devpost.com/jlc-timbol) :)
 
 ### currently building: [portfolio](https://github.com/jctimbol/portfolio)
 
