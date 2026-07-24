@@ -14,7 +14,7 @@
 
 
 #### research
-- [disconnected data distribution (DDD)](https://github.com/SJSU-CS-systems-group/DDD) 
+- [disconnected data distribution (DDD)](https://github.com/SJSU-CS-systems-group/DDD) — internet services for disconnected areas
 
 
 ### contact me at:
